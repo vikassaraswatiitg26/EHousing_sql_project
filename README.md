@@ -138,7 +138,7 @@ DROP COLUMN SaleDate;
 
 📈 Future Enhancements
 
-· Create dashboards in Power BI or Tableau
-· Perform price trend analysis by year and region
-· Add geolocation-based insights
+• Create dashboards in Power BI or Tableau
+• Perform price trend analysis by year and region
+• Add geolocation-based insights
 
