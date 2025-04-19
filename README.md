@@ -2,7 +2,6 @@
 ![E Housing logo](https://github.com/vikassaraswatiitg26/EHousing_sql_project/blob/main/EHousing_logo.jpeg)
 
 ## Objective:
-    # 🏡 eHousing Data Cleaning & Transformation using SQL
 
 This project demonstrates how to clean, transform, and prepare real estate property data for analysis using SQL. The dataset contains information about property sales, ownership, addresses, land value, and more.
 
