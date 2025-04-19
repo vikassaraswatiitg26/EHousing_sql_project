@@ -133,18 +133,13 @@ DROP COLUMN SaleDate;
  After all transformations, the data is now:
 
   • Clean, consistent, and analysis-ready 
-  
   • Duplicate-free
-  
   • Enriched with split address columns
-  
   • Standardized in categorical values
 
 📈 Future Enhancements
 
   • Create dashboards in Power BI or Tableau
-  
   • Perform price trend analysis by year and region
-  
   • Add geolocation-based insights
 
