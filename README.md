@@ -7,7 +7,7 @@ This project demonstrates how to clean, transform, and prepare real estate prope
 
 ---
 
-## 📌 Project Objectives
+# 📌 Project Objectives
 
 · Standardize and clean date formats  
 · Fill missing property addresses using joins  
@@ -18,7 +18,7 @@ This project demonstrates how to clean, transform, and prepare real estate prope
 
 ---
 
-## 🧰 Tools Used
+# 🧰 Tools Used
 
 · PostgreSQL (SQL syntax)  
 · Window functions  
