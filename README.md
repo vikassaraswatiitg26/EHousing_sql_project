@@ -1,1 +1,2 @@
-# EHousing_sql_project
+# Real Estate Data Cleaning & Transformation with SQL
+![E Housing logo]()
